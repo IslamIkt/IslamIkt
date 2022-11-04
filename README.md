@@ -1,4 +1,5 @@
-	![alt text](japan.jpg)
+![japan jpg](https://user-images.githubusercontent.com/117209116/200056703-661f40f3-ff0d-4300-9caf-b62722daaaa7.jpg)
+
 ##About Me
 Hi, my name is Islam Iktislyamov. I am a Software Developer student at MITT in Winnipeg. I am interested in videogmes and coding.
 My hobbies are working out and drawing. My goal is to work in a videogame industry.
